@@ -53,4 +53,4 @@ We welcome contributions! Follow these steps:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For questions or suggestions, open an issue or reach out to **your-email@example.com**.
+For questions or suggestions, open an issue or reach out to **sammyklane7@gmail.com**.
